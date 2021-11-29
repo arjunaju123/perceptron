@@ -4,7 +4,6 @@ import numpy as np
 import joblib
 import os
 import matplotlib.pyplot as plt
-from utils.all_utils import prepare_data
 from matplotlib.colors import ListedColormap
 
 plt.style.use("fivethirtyeight") # THIS IS STYLE OF GRAPHS
