@@ -18,6 +18,8 @@ perceptron implementation
 
 <img src="plots\and.png" alt="Image cannot be displayed" width="500" height="600">
 
+# PYTHON COMMANDS USED
+
 ```python
 
      def __init__(self, eta, epochs):
@@ -27,9 +29,25 @@ perceptron implementation
         self.epochs = epochs 
 
 ```
+## Bash COMMANDS
+
 ```bash
      git add . && git commit -m "Readme updated" && git push origin main
 ```
+
+## TABLE
+
+x1 | x2 | y
+-|-|-
+0|0|0|
+0|1|0|
+1|0|0|
+1|1|1|
+
+###
+* point 1
+* point 2
+1. point
 
 
 
