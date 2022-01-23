@@ -7,6 +7,8 @@ perceptron implementation
 
 <a href="https://guides.github.com/introduction/git-handbook/)"> Git handbook using html anchor tag</a>
 
+[Conda for python](https://www.youtube.com/watch?v=23aQdrS58e0)
+
 ## Authors
 
 [@Arjun](https://github.com/arjunaju123)
